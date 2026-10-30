@@ -23,3 +23,5 @@ print(f"Customer's city: {customer["address"]["city"]}, Number of orders: {len(c
 # this shows a key error, as we didnt define the key phone in our dectionanry
 
 print(customer.get("phone", "no phone number"))
+
+print("new branch")
