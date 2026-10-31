@@ -1,0 +1,4 @@
+ rice
+ oil
+ tea
+ pickle
