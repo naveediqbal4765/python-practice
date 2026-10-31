@@ -1,0 +1,12 @@
+{
+    "status": "ok",
+    "data": {
+      "customer": {"name": "Noor Foods", "city": "Karachi"},
+      "orders": [
+        {"id": "A101", "total": 4500, "items": ["rice", "oil"]},
+        {"id": "A103", "total": 2300, "items": ["sugar"]},
+        {"id": "A106", "total": 6100, "items": ["flour", "tea", "rice"]}
+      ]
+    }
+  }
+  
